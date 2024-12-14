@@ -19,5 +19,7 @@
     "mongoose": "^8.9.0",
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.1"
-  }
+  } ,
+  "homepage": "https://github.com/RochaGomes/BackEnd_P1"
 }
+
